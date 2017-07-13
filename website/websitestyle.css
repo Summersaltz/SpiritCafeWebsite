@@ -1,0 +1,87 @@
+html {
+  background-color: black;
+}
+
+p {
+  color: white;
+  text-align: left;
+}
+
+div {
+  width: 515px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50px;
+  margin: auto;
+}
+
+#title {
+  color: black;
+  font-size: 85px;
+  font-family: papyrus;
+  font-weight: bold;
+}
+
+#line {
+  width: 100%;
+  height: 3px;
+  color: silver;
+  margin-top: 50px;
+}
+
+p {
+  font-family:serif;
+}
+
+table {
+  border-style: outset;
+  border-color: white;
+  border-width: medium;
+  color: white;
+  border-collapse: collapse;
+  width: 85%;
+  margin: auto;
+}
+
+td {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: skyblue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#mainimg {
+  width: 60%;
+  height: 400px;
+  border-width: thin;
+  border-color: grey;
+  align: middle;
+  margin: auto;
+  margin-left: 20%;
+}
+
+h2 {
+  text-align: center;
+  color: gold;
+  font-family: monospace;
+}
+
+#secret {
+  color: #191919;
+  text-align: center;
+}
+
+#secret:hover {
+  color: #999999;
+}

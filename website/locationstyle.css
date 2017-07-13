@@ -1,0 +1,69 @@
+html {
+  background-color: black;
+}
+
+div {
+  width: 515px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50px;
+  margin: auto;
+}
+
+#title {
+  color: black;
+  font-size: 85px;
+  font-family: papyrus;
+  font-weight: bold;
+}
+
+a {
+  font-size: 35px;
+  text-decoration: none;
+  color: grey;
+  font-family: fantasy;
+  margin-left: 90%;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #00fff6;
+  text-decoration: none;
+}
+
+#line {
+  width: 100%;
+  height: 3px;
+  color: silver;
+  margin-top: 50px;
+}
+
+#head {
+  color: white;
+  text-decoration: underline;
+  font-family: cursive;
+  font-size: 45px;
+  text-align: left;
+  margin-left: 30px;
+}
+
+p {
+  color: lightgrey;
+  font-size: 22px;
+}
+
+.dir {
+  margin: auto;
+  width: 40%;
+  height: 300px;
+  margin-left: 8%;
+  display: inline-block;
+}
+
+#bot {
+  margin: auto;
+  width: 40%;
+  height: 275px;
+  margin-left: 20%;
+  display: inline-block;
+}

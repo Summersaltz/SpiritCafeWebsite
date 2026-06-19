@@ -1,1 +1,1 @@
-# SpiritCafeWebsite
+# Welcome to the Spirit Cafe website
